@@ -18,3 +18,11 @@ ____________________
 - Tratamento de Exception
 - Postman
 
+Secao 7:
+____________________
+
+- Implementando CRUD de Person
+- Injecao de dependencias
+- Verbo GET, POST, PUT e DELETE
+- Postman.
+
